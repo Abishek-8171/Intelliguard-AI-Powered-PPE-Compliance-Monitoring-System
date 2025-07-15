@@ -26,12 +26,16 @@ Email alerts (both immediate and daily summary) are sent using Python’s smtpli
 ## Streamlit app
 ### Face Recognition for Secure Login
 <img width="1365" height="593" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/3b9aee56-c15c-4a66-959b-23beb388d79b" />
+
 ### Home Page
 <img width="1365" height="583" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/dbd53cc3-458b-41d8-b627-a84b237c217e" />
+
 ### Computer Vision with YOLO
 <img width="1365" height="581" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/1de3f64d-85dc-4128-b49b-ae49abb04132" />
+
 ### Email Automation
 <img width="1365" height="586" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/46b1ab87-dd17-454a-b2fb-14c9a0f5a812" />
+
 ### Chatbot
 <img width="1366" height="586" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/68b2c9b9-3d55-4073-b206-30d1d24dd9a7" />
 
