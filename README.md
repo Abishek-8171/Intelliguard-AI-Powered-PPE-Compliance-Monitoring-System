@@ -1,1 +1,2 @@
 # Intelliguard-AI-Powered-PPE-Compliance-Monitoring-System
+##Intelliguard is a real-time AI system that helps monitor whether workers are wearing proper safety gear (PPE) in factories and industrial areas. It uses computer vision to detect missing equipment like helmets or gloves. The system automatically logs safety violations, stores the data in the cloud, and sends alerts to the concerned teams—helping ensure quick action and better workplace safety.
