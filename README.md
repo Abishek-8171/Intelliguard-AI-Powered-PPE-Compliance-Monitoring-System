@@ -17,7 +17,9 @@ YOLOv8m (You Only Look Once - version 8, medium variant) is a fast and accurate 
 <img width="2250" height="1500" alt="PR_curve" src="https://github.com/user-attachments/assets/a2d3c93e-a211-4a3f-bca3-eb6d47e45687" />
 <img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/e307d22a-3e67-4e5c-b03f-1de050f64d59" />
 
-
 ## Chatbot NLP Model
 A T5-base transformer model fine-tuned on WikiSQL (mrm8488/t5-base-finetuned-wikiSQL) from Hugging Face is used to convert natural language questions into SQL queries. It allows users to query PPE violation data through a chatbot interface without writing SQL manually.
+
+## Email Automation:
+Email alerts (both immediate and daily summary) are sent using Python’s smtplib along with Gmail’s SMTP server. Alert emails notify safety officers of violations, while daily reports summarize anomaly data logged into the cloud database.
 
