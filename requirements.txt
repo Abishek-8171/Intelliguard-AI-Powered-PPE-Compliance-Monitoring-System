@@ -1,0 +1,12 @@
+streamlit
+streamlit-option-menu
+Pillow
+deepface
+ultralytics
+matplotlib
+pytz
+psycopg2-binary
+sqlalchemy
+pandas
+transformers
+torch
