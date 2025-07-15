@@ -23,3 +23,5 @@ A T5-base transformer model fine-tuned on WikiSQL (mrm8488/t5-base-finetuned-wik
 ## Email Automation:
 Email alerts (both immediate and daily summary) are sent using Python’s smtplib along with Gmail’s SMTP server. Alert emails notify safety officers of violations, while daily reports summarize anomaly data logged into the cloud database.
 
+## Streamlit app
+<img width="1365" height="593" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/7eee3fb3-e256-46ea-8d37-bc074ca69503" />
