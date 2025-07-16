@@ -1,7 +1,7 @@
 # Intelliguard-AI-Powered-PPE-Compliance-Monitoring-System
 Intelliguard is a real-time AI system that monitors whether workers are following PPE (Personal Protective Equipment) rules in factories and industrial settings. It uses a YOLOv8m object detection model to identify missing safety gear like helmets, gloves, or masks. Detected violations are automatically logged into an AWS RDS cloud database, and alerts are sent to the concerned teams to ensure quick response and improved workplace safety.
 # Libraries Used
-<img width="929" height="356" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/6e22ad4a-c32e-4c59-81f3-f90f9e810b10" />
+<img width="965" height="391" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/4f390d11-b503-46fb-b6ae-b9d658ad1505" />
 
 # 📂Data Collection
 - The dataset consists of 24,924 labeled images of workers in industrial settings, categorized into 12 classes: glove, goggles, helmet, mask, no-suit, no_glove, no_goggles, no_helmet, no_mask, no_shoes, shoes, and suit
