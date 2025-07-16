@@ -1,12 +1,15 @@
 streamlit
-streamlit-option-menu
 Pillow
 deepface
+streamlit-option-menu
 ultralytics
 matplotlib
 pytz
 psycopg2-binary
-sqlalchemy
 pandas
+smtplib  
+email 
 transformers
+sqlalchemy
 torch
+boto3
