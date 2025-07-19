@@ -15,6 +15,7 @@ YOLOv8m (You Only Look Once - version 8, medium variant) is a fast and accurate 
 <img width="2250" height="1500" alt="P_curve" src="https://github.com/user-attachments/assets/c8c5bab8-b4d4-48a3-ad82-4e347609ab7f" />
 <img width="2250" height="1500" alt="R_curve" src="https://github.com/user-attachments/assets/3555710f-46e9-4c45-81e2-42d169876791" />
 <img width="2250" height="1500" alt="PR_curve" src="https://github.com/user-attachments/assets/a2d3c93e-a211-4a3f-bca3-eb6d47e45687" />
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/0a552bf5-4c7e-43bd-8eba-d37a2a23b5d8" />
 <img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/e307d22a-3e67-4e5c-b03f-1de050f64d59" />
 
 ## Chatbot NLP Model
