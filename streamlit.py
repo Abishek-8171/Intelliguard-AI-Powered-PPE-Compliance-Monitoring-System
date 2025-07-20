@@ -178,9 +178,9 @@ elif menu == "Unlock":
 
                             anamoly_data = pd.DataFrame(data)
                             # RDS connection credentials
-                            rds_host = "ppedatabase.c900ssimojz4.ap-south-1.rds.amazonaws.com"
+                            rds_host = "enter_host_name"
                             rds_user = "postgres"
-                            rds_password = "finalprojectppe"
+                            rds_password = "enter_your_password"
                             rds_db = "postgres"
                             rds_port = "5432"
 
@@ -265,9 +265,9 @@ elif menu == "Unlock":
 
                                     anamoly_data = pd.DataFrame(data)
                                     # RDS connection credentials
-                                    rds_host = "ppedatabase.c900ssimojz4.ap-south-1.rds.amazonaws.com"
+                                    rds_host = "enter_host_name"
                                     rds_user = "postgres"
-                                    rds_password = "finalprojectppe"
+                                    rds_password = "enter_your_password"
                                     rds_db = "postgres"
                                     rds_port = "5432"
 
@@ -296,7 +296,7 @@ elif menu == "Unlock":
                                 """)
                     def send_email(to_email, subject, message):
                         from_email = 'abishek8171@gmail.com'
-                        password = 'xvrz kksw wmcv hsrd'                          
+                        password = 'enter_password'                          
 
                         msg = MIMEMultipart()
                         msg["From"] = from_email
@@ -343,9 +343,9 @@ elif menu == "Unlock":
                                 Sends a daily email summarizing **all PPE anomaly detections**.
                                 Helps maintain a daily log of compliance performance.
                                 """)
-                    rds_host = "ppedatabase.c900ssimojz4.ap-south-1.rds.amazonaws.com"
+                    rds_host = "enter_host_name"
                     rds_user = "postgres"
-                    rds_password = "finalprojectppe"
+                    rds_password = "enter_your_password"
                     rds_db = "postgres"
                     rds_port = "5432"
 
@@ -358,7 +358,7 @@ elif menu == "Unlock":
                     st.dataframe(df)
                     def send_email(to_email, subject, message):
                         from_email = 'abishek8171@gmail.com'
-                        password = 'xvrz kksw wmcv hsrd'                          
+                        password = 'enter_password'                          
 
                         msg = MIMEMultipart()
                         msg["From"] = from_email
@@ -400,8 +400,8 @@ elif menu == "Unlock":
 
                 # RDS Configuration
                 db_user = "postgres"
-                db_pass = "finalprojectppe"
-                db_host = "ppedatabase.c900ssimojz4.ap-south-1.rds.amazonaws.com"
+                db_pass = "enter_your_password"
+                db_host = "enter_host_name"
                 db_port = "5432"
                 db_name = "postgres"
 
